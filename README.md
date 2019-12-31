@@ -1,1 +1,3 @@
-# Ping-Pong-Arcade-Game
+# Ping Pong Arcade Game
+
+JavaScript on Canvas
