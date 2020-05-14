@@ -1,6 +1,6 @@
 # Ping Pong Arcade Game
 
-JavaScript on Canvas
+JavaScript on Canvas Exercise
 
 https://gael-src.github.io/Ping-Pong-Arcade-Game/index.html
 
