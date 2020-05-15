@@ -4,7 +4,7 @@ JavaScript on Canvas Exercise
 
 https://gael-src.github.io/ping-pong-arcade-game/
 
-# Udemi course:
+## Udemi course:
 
 https://www.udemy.com/course/code-your-first-game/
 
