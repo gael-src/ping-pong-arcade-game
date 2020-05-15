@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+/* GAEL-SRC.GITHUB.IO */
+.gael-src-link {
+  color: #0081ff;
+  border: solid 1px #0081ff;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 10px 10px 10px 30px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.gael-src-link:hover {
+  color: #0081ff;
+  text-decoration: underline;
+}
