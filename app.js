@@ -134,9 +134,9 @@ function drawEverything() {
         canvasContext.fillStyle = "white";
         
         if (player1Score >= WINNING_SCORE) {
-            canvasContext.fillText("Left Player Won!", 250, 250);
+            canvasContext.fillText("You Won!", 250, 250);
         } else if (player2Score >= WINNING_SCORE) {
-            canvasContext.fillText("Right Player Won!", 450, 250);
+            canvasContext.fillText("Computer Won!", 450, 250);
         }
 
         canvasContext.fillText("Click to continue", 350, 350);
