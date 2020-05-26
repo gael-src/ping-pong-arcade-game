@@ -17,10 +17,12 @@ body {
   font-size: 18px;
   padding: 5px 10px;
 }
+
 .gael-src-link:hover {
   color: white;
   background-color: black;
 }
+
 .gael-src-link-wrapper {
   min-height: 500px;
   max-width: 100%;
