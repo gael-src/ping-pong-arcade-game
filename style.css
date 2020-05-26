@@ -13,12 +13,10 @@ body {
   color: #0081ff;
   border: solid 1px #0081ff;
   text-decoration: none;
-  font-size: 16px;
-  margin: 10px 10px 10px 30px;
+  text-align: center;
+  font-size: 18px;
+  margin: 100px 10px;
   padding: 5px 10px;
-  position: absolute;
-  top: 50px;
-  left: 50px;
 }
 .gael-src-link:hover {
   color: #0081ff;
